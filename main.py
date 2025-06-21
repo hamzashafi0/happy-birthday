@@ -84,4 +84,4 @@ if st.button("🎈 Generate Happy BirthDay Message"):
     else:
         st.warning("Please enter your name.")
 st.markdown("---")
-st.markdown("<h3 style='color: purple;'>Build by Kahkasha ❤ Hamza </h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='color: purple;'>Build by Hamza Shafi </h3>", unsafe_allow_html=True)
